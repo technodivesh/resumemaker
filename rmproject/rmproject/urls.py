@@ -26,7 +26,7 @@ schema_view = get_schema_view(
       title="Resume Maker API",
       default_version='v1',
       description="API documentation for Resume Maker Project",
-      contact=openapi.Contact(email="your@email.com"),
+      contact=openapi.Contact(email="technodivesh.com"),
    ),
    public=True,
    permission_classes=[permissions.AllowAny],
